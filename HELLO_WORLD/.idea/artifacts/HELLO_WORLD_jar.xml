@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HELLO_WORLD:jar">
+    <output-path>$USER_HOME$/Desktop/ideajar</output-path>
+    <root id="archive" name="HELLO_WORLD.jar">
+      <element id="module-output" name="HELLO_WORLD" />
+    </root>
+  </artifact>
+</component>
