@@ -4,6 +4,6 @@ public class hei {
     public static void main(String[] args) {
         System.out.println("hahaha");
         System.out.println("hahaha");
-        System.out.println("噜噜噜噜");
+        System.out.println("嘿嘿嘿");
     }
 }
