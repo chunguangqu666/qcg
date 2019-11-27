@@ -5,5 +5,6 @@ public class hei {
         System.out.println("hahaha");
         System.out.println("hahaha");
         System.out.println("嘿嘿嘿");
+        System.out.println("I konw");
     }
 }
