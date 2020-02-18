@@ -23,7 +23,7 @@ public class Main {
         sf.append(2);
         System.out.println(sf);
         int capacity = sf.capacity();
-        System.out.print(capacity);
+        
 
 
         //aaaaabbbbbb
